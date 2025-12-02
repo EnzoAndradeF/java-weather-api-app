@@ -14,6 +14,7 @@ Scanner para entrada de dados
 
 Tratamento de erros e formatação limpa no console
 
+
 🚀 Funcionalidades
 
 Consulta de clima atual digitando o nome da cidade
@@ -36,6 +37,7 @@ Data e hora da última atualização
 
 Tratativa para cidade não encontrada (code: 1006)
 
+
 🛠 Tecnologias usadas
 
 Java 17+
@@ -47,6 +49,7 @@ WeatherAPI
 org.json
 
 Git / GitHub
+
 
 📌 Como executar
 
